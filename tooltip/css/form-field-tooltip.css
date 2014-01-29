@@ -1,0 +1,13 @@
+#DHTMLgoodies_formTooltipDiv{
+	color:#000000;
+	font-family:arial;
+	/*font-weight:bold;*/
+	padding:8px 10px 9px;
+	font-size:12px;
+	line-height:120%;
+}
+.DHTMLgoodies_formTooltip_closeMessage{
+	color:#000000;
+	font-weight:normal;
+	font-size:10px;
+}

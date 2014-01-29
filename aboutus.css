@@ -1,0 +1,29 @@
+html {
+background: url(aboutus.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+div.aboutus{
+	margin:0 auto;
+	background:url(lucent.png);
+	position:absolute;
+	top:10%;
+	right:5%;
+	left:50%;
+	bottom:5%;
+	}
+	div.aboutus a{
+			display:inline;
+	}
+	div.aboutus p{
+			font-size:15px;
+			text-align:justify;
+			color:#ffffff;
+			font-family:"helvetica";
+	}
+	div.aboutus h2{
+			color:#ffffff;
+			font-family:"helvetica";
+	}
